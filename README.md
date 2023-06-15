@@ -1,1 +1,2 @@
 # Mobile-Price-Prediction
+In this project we collected data of mobile phones using webscrapping from flipkart, amazon and then clean the data set using google sheet. This data set contain mobile name, ram, rom, battery, camera, proccessor, display size and price categories. Here price category is the y variable. Using this features we tried to predict price categories. Here we used KNN then KNN with PCA and then KNN with LDA.
